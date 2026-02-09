@@ -1,0 +1,1 @@
+# truth_tabel_generator_and_generator
